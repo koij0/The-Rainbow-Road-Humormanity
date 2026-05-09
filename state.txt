@@ -1,0 +1,50 @@
+Alabama,True,True
+Alaska,True,False
+Arizona,True,True
+Arkansas,True,True
+California,True,False
+Colorado,True,False
+Connecticut,False,False
+Delaware,False,False
+Florida,True,True
+Georgia,True,True
+Hawaii,True,False
+Idaho,True,True
+Illinois,False,False 
+Indiana,False,True
+Iowa,False,True
+Kansas,True,True
+Kentucky,True,True
+Louisiana,True,True
+Maine,False,False
+Maryland,False,False
+Massachusetts,False,False
+Michigan,True,False
+Minnesota,False,False
+Mississippi,True,True
+Missouri,True,True
+Montana,True,True
+Nebraska,True,True
+Nevada,True,False
+New Hampshire,False,True
+New Jersey,False,False
+New Mexico,False,False
+New York,False,False
+North Carolina,True,True
+North Dakota,True,True
+Ohio,True,True
+Oklahoma,True,True
+Oregon,True,False
+Pennsylvania,False,False
+Rhode Island,False,False
+South Carolina,True,True
+South Dakota,True,True
+Tennessee,True,True
+Texas,True,True
+Utah,True,True
+Vermont,False,False
+Virginia,True,False
+Washington,False,False
+West Virginia,False,True
+Wisconsin,True,False
+Wyoming,False,True
